@@ -1,5 +1,6 @@
 using UnityEngine;
 
+//Puedo escribir y hacer pull/push
 public class player : MonoBehaviour
 {
     public float speed = 0;
